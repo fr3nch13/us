@@ -18,7 +18,7 @@
       $url = 'https://www.facebook.com/events/850747935127124';
     if($url)
     {
-      //echo '<meta http-equiv="refresh" content="5; url='.$url.'" />';
+      echo '<meta http-equiv="refresh" content="5; url='.$url.'" />';
     }
   }
   ?>
