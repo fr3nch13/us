@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <?php
   $url = false;
+  $page = false;
   if(isset($_REQUEST['page']))
   {
     $page = $_REQUEST['page'];
@@ -36,7 +37,11 @@
           <div class="alert alert-success" role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">×</button>
             <h4 class="alert-heading">Redirecting...</h4>
-            <p class="mb-0">Redirecting to: <a href="<?=$url?>"><?=$url?></a></p>
+            <p class="mb-0">Redirecting to: <a href="<?=$url?>">
+              <?=$url?>
+              </br>
+              <img class="img-fluid d-block mx-auto" src="assets/qr_<?=$page?>.png">
+            </a></p>
           </div>
         </div>
       </div>
