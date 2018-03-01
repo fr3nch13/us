@@ -53,19 +53,19 @@
       <div class="row">
         <div class="col-md-4 p-4">
           <a href="index.php?page=website" class="text-dark">
-            <img class="img-fluid d-block mx-auto" src="assets/qr_website.png">
+            <img class="img-fluid d-block mx-auto" src="assets/icons8-home_page.png">
             <h4>Website</h4>
           </a>
         </div>
         <div class="col-md-4 p-4">
           <a href="index.php?page=ceremony" class="text-dark">
-            <img class="img-fluid d-block mx-auto" src="assets/qr_ceremony.png">
+            <img class="img-fluid d-block mx-auto" src="assets/icons8-newlyweds.png">
             <h4>Ceremony Event</h4>
           </a>
         </div>
         <div class="col-md-4 p-4">
           <a href="index.php?page=reception" class="text-dark">
-            <img class="img-fluid d-block mx-auto" src="assets/qr_reception.png">
+            <img class="img-fluid d-block mx-auto" src="assets/icons8-dancing_party.png">
             <h4>Reception Event</h4>
           </a>
         </div>
