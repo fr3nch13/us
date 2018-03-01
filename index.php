@@ -28,13 +28,13 @@
   <title>Kara and Brian's Wedding</title>
 </head>
 
-<body class="text-white text-center filter-color">
+<body class="text-white text-center bg-secondary">
   <?php if($url): ?>
   <div class="py-5">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="alert alert-success" role="alert">
+          <div class="alert alert-light" role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">×</button>
             <h4 class="alert-heading">Redirecting...</h4>
             <p class="mb-0">Redirecting to: <a href="<?=$url?>">
