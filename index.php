@@ -47,21 +47,21 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 p-4">
-          <a href="index.php?page=website">
+          <a href="index.php?page=website" class="text-dark">
             <img class="img-fluid d-block mx-auto" src="assets/icons8-home_page.png">
-            <p>Website</p>
+            <h4>Website</h4>
           </a>
         </div>
         <div class="col-md-4 p-4">
-          <a href="index.php?page=ceremony">
+          <a href="index.php?page=ceremony" class="text-dark">
             <img class="img-fluid d-block mx-auto" src="assets/icons8-newlyweds.png">
-            <p>Ceremony Event</p>
+            <h4>Ceremony Event</h4>
           </a>
         </div>
         <div class="col-md-4 p-4">
-          <a href="index.php?page=reception">
+          <a href="index.php?page=reception" class="text-dark">
             <img class="img-fluid d-block mx-auto" src="assets/icons8-dancing_party.png">
-            <p>Reception Event</p>
+            <h4>Reception Event</h4>
           </a>
         </div>
       </div>
