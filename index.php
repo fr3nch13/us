@@ -43,7 +43,7 @@
     </div>
   </div>
   <?php endif; ?>
-  <div class="py-5 text-center bg-light">
+  <div class="py-5 text-center">
     <div class="container">
       <div class="row">
         <div class="col-md-4 p-4">
