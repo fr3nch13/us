@@ -28,7 +28,7 @@
   <title>Kara and Brian's Wedding</title>
 </head>
 
-<body class="text-white text-center border border-dark filter-color">
+<body class="text-white text-center filter-color">
   <?php if($url): ?>
   <div class="py-5">
     <div class="container">
